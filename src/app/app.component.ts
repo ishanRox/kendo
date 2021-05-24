@@ -66,7 +66,7 @@ export class AppComponent {
   }
   public onButtonClick(): void {
     console.log('click');
-
+ 
 
   }
 }
